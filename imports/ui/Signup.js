@@ -80,7 +80,7 @@ export default class Signup extends React.Component {
               <button className="button">Create Account</button>
             </form>
 
-            <ReactLink to="/">Already have an Account?</ReactLink>
+            <ReactLink to="/">Have an Account?</ReactLink>
         </div>
       </div>
     );
